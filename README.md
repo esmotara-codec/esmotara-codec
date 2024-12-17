@@ -1,6 +1,3 @@
-[!MasterHead](C:\Users\ATC\Downloads\Untitled design.gif)
-
-
 <h1 align="center">Hi 👋, I'm Esmot Ara</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 <img align="center" alt="Coding"  width="100%" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
