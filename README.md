@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esmot Ara</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz49pzG7CLExHaaewN5QE9HJHvxJGAlW2ZMw&s"/>
+<img align="center" alt="Coding" width="800" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz49pzG7CLExHaaewN5QE9HJHvxJGAlW2ZMw&s"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esmotara-codec&label=Profile%20views&color=0e75b6&style=flat" alt="esmotara-codec" /> </p>
 
