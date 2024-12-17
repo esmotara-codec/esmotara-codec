@@ -9,11 +9,13 @@
 
 - 🌱 I’m currently learning **react,express,mongodb**
 
-- 👯 I’m looking to collaborate on **Library Management System**
+- 👯 I’m looking to collaborate on **e-ticketing**
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **esmotara1725@gmail.com**
+
+- ⚡ Fun fact **I play with code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
