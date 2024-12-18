@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Esmot Ara</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
-<div style="flex">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=esmotara-codec&label=Profile%20views&color=0e75b6&style=flat" alt="esmotara-codec" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esmotara-codec" alt="esmotara-codec" /></a> </p>
+
 - 🔭 I’m currently working on **Library Management System**
 
 - 🌱 I’m currently learning **react,express,mongodb**
@@ -12,16 +17,6 @@
 - 📫 How to reach me **esmotara1725@gmail.com**
 
 - ⚡ Fun fact **I play with code.**
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/></div>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=esmotara-codec&label=Profile%20views&color=0e75b6&style=flat" alt="esmotara-codec" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esmotara-codec" alt="esmotara-codec" /></a> </p>
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
