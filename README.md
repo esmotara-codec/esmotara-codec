@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **esmotara1725@gmail.com**
+- 📫 How to reach me **(https://bd.linkedin.com/in/esmot-ara-199215207)**
 
 - ⚡ Fun fact **I play with code.**
 
